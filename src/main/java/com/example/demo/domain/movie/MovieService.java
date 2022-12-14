@@ -18,4 +18,5 @@ public class MovieService {
                 .map(MovieDtoMapper::map)
                 .toList();
     }
+
 }
